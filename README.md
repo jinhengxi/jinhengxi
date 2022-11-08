@@ -1,4 +1,13 @@
 ### 안녕하세요! 👋
+<div>
+<a href="https://hengxi.tistory.com/" rel="nofollow">
+	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
+</a>
+<a href="mailto:jinhengxi93@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
+</a>
+</div>
+</br>
 🧐 아직 배울 것이 많은 주니어 웹 프론트엔드 개발자입니다.
 </br>
 <h3> 💪 Teck Stack </h3>
@@ -10,7 +19,6 @@
 	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 </div>
-</br>
 <h3 > 🔨 Tools </h3>
 <div>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
@@ -19,20 +27,6 @@
 	<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white" />
 	<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
-
-</br>
-<h3> 🍻 etc</h3>
-
-<div >
-	<a href="https://hengxi.tistory.com/" rel="nofollow">
-		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
-	</a>
-	<a href="mailto:jinhengxi93@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-</div>
-
-</br>
 <h3 >👩‍💻 My Github Stats 👩‍💻</h3>
 <div>
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinhengxi&layout=compact"><br><br>
