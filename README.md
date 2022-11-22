@@ -4,6 +4,7 @@
 <a href="https://hengxi.tistory.com/" rel="nofollow">
 	<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white" />
 </a>
+	
 <a href="mailto:jinhengxi93@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 </a>
